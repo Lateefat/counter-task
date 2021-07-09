@@ -23,6 +23,7 @@ The interface should look like this:
 - Semantic HTML5 markup
 - Bootstrap 5
 - CSS custom properties
+- Javascript
 
 This was an easier task for me because I am more comfortable writing codes with logic. I get to implement a task the way I like.
 It was also easier because we were taught how to use Bootstrap during the week. 
