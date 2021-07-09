@@ -3,11 +3,15 @@
 
 This is a task in the Frontend internship with <https://sidehustle.ng/>.
 
-## Task
+## **Task**
 Create a counter that decrements a number when a button is clicked and increments it when a another button sis clicked.
 The interface should look like this:
 
 ![project interface](images/counter-javascript-project.png)
+
+Given link to the image above: <https://jsbeginners.com/wp-content/uploads/2019/05/counter-javascript-project.png>
+
+<br>
 
 ## **MY SOLUTION**
 - [Live site](https://counter-task-lateefat.netlify.app/)
