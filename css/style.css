@@ -1,5 +1,5 @@
 
-
+/* settting the dimensions of the app */
 .card{
     
     width: 600px;
@@ -7,6 +7,7 @@
     
 }
 
+/* setting the container within the app dimensions */
 .outer{
     width: 600px;
     height: 600px;
@@ -14,6 +15,7 @@
     
 }
 
+/* styling the box */
 .inner{
     width: 350px;
     height: 450px;
@@ -25,11 +27,13 @@
     border-style:outset;
 }
 
+/* styling the number that would be changing */
 .number{
     font-size: 100px;
     color: #228b22;
     font-weight:500;
 }
+/* changing the color of 'COUNTER' text to white */
 h4{
     color: #fff;
     font-size: 35px;
