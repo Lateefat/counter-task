@@ -1,0 +1,36 @@
+
+
+.card{
+    
+    width: 600px;
+    height: 600px;
+    
+}
+
+.outer{
+    width: 600px;
+    height: 600px;
+    padding: 0px;
+    
+}
+
+.inner{
+    width: 350px;
+    height: 450px;
+    margin: auto;
+    padding:  30px;
+    text-align: center;
+    border: 3px;
+    border-color: #fff;
+    border-style:outset;
+}
+
+.number{
+    font-size: 100px;
+    color: #228b22;
+    font-weight:500;
+}
+h4{
+    color: #fff;
+    font-size: 35px;
+}
